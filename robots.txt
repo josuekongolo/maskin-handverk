@@ -1,0 +1,12 @@
+# Robots.txt for Maskin & Håndverk AS
+# https://maskinoghandverk.no
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://maskinoghandverk.no/sitemap.xml
+
+# Disallow any admin or private directories (if applicable)
+# Disallow: /admin/
+# Disallow: /private/
